@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-nandanwar&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-nandanwar" /> </p>
 
-- 🌱 I’m currently learning **Java, React Native, Figma, App Design  **
+- 🌱 I have experience in **Java, React Native, Figma, App Design  **
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gaurav-nandanwar10175-7b472121a/](https://www.linkedin.com/in/gaurav-nandanwar10175-7b472121a/)
 
